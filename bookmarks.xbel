@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1260: for Floccus bookmark sync browser extension -->
+<!--- highestId :1261: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -860,6 +860,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/151576/light-control-back-front-backlight-slider?modelVersionId=169496" id="541">
         <title>Light Control - Back Front - Backlight Slider - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/155496/contrast-control-sd15?modelVersionId=174426" id="1261">
+        <title>Contrast Control SD15 - v1.0 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="287">
