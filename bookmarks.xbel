@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1285: for Floccus bookmark sync browser extension -->
+<!--- highestId :1290: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -61,14 +61,8 @@
     <bookmark href="https://midlibrary.io/" id="106">
       <title>安德烈·科瓦列夫 （Andrei Kovalev） 的 Midlibrary：Midjourney AI 样式库和指南 --- Andrei Kovalev&apos;s Midlibrary: Midjourney AI Styles Library and Guide</title>
     </bookmark>
-    <bookmark href="https://prompthero.com/featured" id="108">
-      <title>PromptHero - Search prompts for Stable Diffusion, ChatGPT &amp; Midjourney</title>
-    </bookmark>
     <bookmark href="https://lexica.art/" id="109">
       <title>词典 --- Lexica</title>
-    </bookmark>
-    <bookmark href="https://atlassc.net/2023/03/24/stable-diffusion-prompt" id="110">
-      <title>Stable Diffusion Prompt Note</title>
     </bookmark>
   </folder>
   <folder id="17">
@@ -88,7 +82,7 @@
     <bookmark href="https://openart.ai/workflows/home" id="112">
       <title>ComfyUI Workflows - Developer Community</title>
     </bookmark>
-    <bookmark href="https://www.esheep.com/app" id="113">
+    <bookmark href="https://www.esheep.com/workflow#slug=6c39da61aaf4bbe9fe7d350985570721" id="1286">
       <title>eSheep(内测中) - 一站式的AIGC社区</title>
     </bookmark>
     <bookmark href="https://youml.com/comfy/recipes/8092/editor?_r=7" id="114">
@@ -633,6 +627,18 @@
       <bookmark href="https://prompthero.com/prompt/f98c931806d-dreamshaper-3-3-highest-quality-the-perfect-masterpiece-perfect-artwork-8k-upper-body-portrait-1-5-seen-from-the-side-1-2-close" id="1264">
         <title>DreamShaper prompt: Highest quality,The perfect - PromptHero</title>
       </bookmark>
+      <bookmark href="https://civitai.com/images/15096653" id="225">
+        <title>Image posted by TSRb2d17556b8</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/15437171" id="228">
+        <title>Image posted by moxie1776</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/15565887" id="229">
+        <title>Image posted by eduardo_saffe</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/15001864" id="230">
+        <title>Image posted by xlr8td</title>
+      </bookmark>
     </folder>
     <folder id="118">
       <title>Ref_Img_Wait_to_Workflow_no_model_and_prompt</title>
@@ -723,35 +729,11 @@
       <bookmark href="https://civitai.com/images/15064894" id="224">
         <title>Image posted by moxie1776</title>
       </bookmark>
-      <bookmark href="https://civitai.com/images/15096653" id="225">
-        <title>Image posted by TSRb2d17556b8</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/15158246" id="226">
-        <title>Image posted by alvdansen</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/15248654" id="227">
-        <title>Image posted by StanleyPain</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/15437171" id="228">
-        <title>Image posted by moxie1776</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/15565887" id="229">
-        <title>Image posted by eduardo_saffe</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/15001864" id="230">
-        <title>Image posted by xlr8td</title>
-      </bookmark>
       <bookmark href="https://civitai.com/images/15483832" id="231">
         <title>Image posted by Arkeologen</title>
       </bookmark>
       <bookmark href="https://civitai.com/images/15408617" id="232">
         <title>Image posted by TinaNairiaShim</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/15467484" id="233">
-        <title>Image posted by jberm2370962</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/9659508" id="389">
-        <title>Image posted by dexterslab</title>
       </bookmark>
       <bookmark href="https://civitai.com/images/16117274" id="1265">
         <title>Image posted by sunnytiersen</title>
@@ -3487,14 +3469,26 @@
     <bookmark href="https://chromewebstore.google.com/detail/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A-%E7%82%BA-youtube/cmedhionkhpnakcndndgjdbohmhepckk?pli=1" id="1095">
       <title>过滤广告 為 Youtube™</title>
     </bookmark>
+    <bookmark href="https://chromewebstore.google.com/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad" id="1287">
+      <title>划词翻译</title>
+    </bookmark>
+    <bookmark href="https://chromewebstore.google.com/detail/xbrowsersync/lcbjdhceifofjlpecfpeimnnphbcjgnc" id="1288">
+      <title>xBrowserSync</title>
+    </bookmark>
     <bookmark href="https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp" id="1098">
       <title>FoxyProxy</title>
+    </bookmark>
+    <bookmark href="https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B/hchobocdmclopcbnibdnoafilagadion" id="1289">
+      <title>微信公众号同步助手</title>
     </bookmark>
     <bookmark href="https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh" id="1100">
       <title>沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费</title>
     </bookmark>
     <bookmark href="https://chromewebstore.google.com/detail/google-%E7%BF%BB%E8%AF%91/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh-CNChrome" id="1101">
       <title>Google 翻译</title>
+    </bookmark>
+    <bookmark href="https://civitai.com/models/191303/cute-and-colorful" id="1290">
+      <title>Cute &amp; Colorful - v1.0 | Stable Diffusion LoRA | Civitai</title>
     </bookmark>
     <bookmark href="https://chromewebstore.google.com/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg" id="1260">
       <title>floccus bookmarks sync</title>
