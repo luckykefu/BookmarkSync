@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1290: for Floccus bookmark sync browser extension -->
+<!--- highestId :1422: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -58,12 +58,6 @@
   </folder>
   <folder id="16">
     <title>Prompt</title>
-    <bookmark href="https://midlibrary.io/" id="106">
-      <title>安德烈·科瓦列夫 （Andrei Kovalev） 的 Midlibrary：Midjourney AI 样式库和指南 --- Andrei Kovalev&apos;s Midlibrary: Midjourney AI Styles Library and Guide</title>
-    </bookmark>
-    <bookmark href="https://lexica.art/" id="109">
-      <title>词典 --- Lexica</title>
-    </bookmark>
   </folder>
   <folder id="17">
     <title>Logo</title>
@@ -639,6 +633,30 @@
       <bookmark href="https://civitai.com/images/15001864" id="230">
         <title>Image posted by xlr8td</title>
       </bookmark>
+      <bookmark href="https://civitai.com/images/15483832" id="1291">
+        <title>Image posted by Arkeologen</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/15408617" id="1292">
+        <title>Image posted by TinaNairiaShim</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/14521366" id="1293">
+        <title>Image posted by oneeyed2</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/12097475" id="1294">
+        <title>Image posted by Stellaaa</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/10634283" id="1295">
+        <title>Image posted by doberman1987</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/9550394" id="1296">
+        <title>Image posted by freckledvixon</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/14975423" id="1297">
+        <title>Image posted by MetroCat</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/16117274" id="1298">
+        <title>Image posted by sunnytiersen</title>
+      </bookmark>
     </folder>
     <folder id="118">
       <title>Ref_Img_Wait_to_Workflow_no_model_and_prompt</title>
@@ -684,32 +702,17 @@
       <bookmark href="https://civitai.com/images/1490300" id="382">
         <title>Image posted by MengX</title>
       </bookmark>
-      <bookmark href="https://civitai.com/images/15008101" id="383">
-        <title>Image posted by SeasonedTomato</title>
-      </bookmark>
       <bookmark href="https://civitai.com/images/14715864" id="384">
         <title>Image posted by Yuki_Hotaru</title>
       </bookmark>
-      <bookmark href="https://civitai.com/images/15228780" id="385">
-        <title>Image posted by kjs195</title>
-      </bookmark>
       <bookmark href="https://civitai.com/images/15473911" id="386">
-        <title>Image posted by UndefinedUsername</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/15474003" id="387">
         <title>Image posted by UndefinedUsername</title>
       </bookmark>
       <bookmark href="https://civitai.com/images/15185653" id="388">
         <title>Image posted by HariPjotr</title>
       </bookmark>
-      <bookmark href="https://civitai.com/images/15473897" id="494">
-        <title>Image posted by UndefinedUsername</title>
-      </bookmark>
       <bookmark href="https://civitai.com/images/15072613" id="495">
         <title>Image posted by ddamir247931</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/14975423" id="496">
-        <title>Image posted by MetroCat</title>
       </bookmark>
       <bookmark href="https://civitai.com/images/15129010" id="497">
         <title>Image posted by CreativeEdge</title>
@@ -723,26 +726,242 @@
       <bookmark href="https://civitai.com/images/14702204" id="500">
         <title>Image posted by yepeisheng</title>
       </bookmark>
+      <bookmark href="https://civitai.com/images/583490" id="1299">
+        <title>Image posted by DynamicWang</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/3517263" id="1300">
+        <title>Image posted by Kelly_V</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/11886358" id="1301">
+        <title>Image posted by Hizumi___</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/12560457" id="1302">
+        <title>Image posted by Hizumi___</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/13048911" id="1303">
+        <title>Image posted by Yuki_Hotaru</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/11886395" id="1304">
+        <title>Image posted by Hizumi___</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/13240765" id="1305">
+        <title>Image posted by Yuki_Hotaru</title>
+      </bookmark>
     </folder>
     <folder id="119">
       <title>Ref_Img_Wait_to_Workflow</title>
       <bookmark href="https://civitai.com/images/15064894" id="224">
         <title>Image posted by moxie1776</title>
       </bookmark>
-      <bookmark href="https://civitai.com/images/15483832" id="231">
-        <title>Image posted by Arkeologen</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/15408617" id="232">
-        <title>Image posted by TinaNairiaShim</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/16117274" id="1265">
-        <title>Image posted by sunnytiersen</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/14521366" id="1266">
-        <title>Image posted by oneeyed2</title>
-      </bookmark>
       <bookmark href="https://prompthero.com/prompt-builder/f98c931806d" id="1267">
         <title>PromptHero - Search prompts for Stable Diffusion, ChatGPT &amp; Midjourney</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/4168223" id="1306">
+        <title>Image posted by HariPjotr</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/11267228" id="1307">
+        <title>Image posted by vvystic</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/13674280" id="1308">
+        <title>Image posted by DucHaiten</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/4963148" id="1309">
+        <title>Image posted by fp16_guy</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/8004238" id="1310">
+        <title>Image posted by Superspice</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/12409291" id="1311">
+        <title>Image posted by popyay</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/12613991" id="1312">
+        <title>Image posted by yohony666</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/1121966" id="1313">
+        <title>Image posted by Merjic</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/4358063" id="1314">
+        <title>Image posted by dinixdream</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/10189610" id="1315">
+        <title>Image posted by gnacivitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/3289998" id="1316">
+        <title>Image posted by fryze</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/5553343" id="1317">
+        <title>Image posted by Mingze</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/3244408" id="1318">
+        <title>Image posted by yomama123556778</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/2858929" id="1319">
+        <title>Image posted by A_banana</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/7046361" id="1320">
+        <title>Image posted by Stellaaa</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/1726591" id="1321">
+        <title>Image posted by Bradcatt</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/527638" id="1322">
+        <title>Image posted by Merjic</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/11520387" id="1323">
+        <title>Image posted by popyay</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/2513919" id="1324">
+        <title>Image posted by fp16_guy</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/1294655" id="1325">
+        <title>Image posted by Yuki_Hotaru</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/4311006" id="1326">
+        <title>Image posted by Yuki_Hotaru</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/13526828" id="1327">
+        <title>Image posted by popyay</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/227429" id="1328">
+        <title>Image posted by Remyy</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/7006623" id="1329">
+        <title>Image posted by Gaba70</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/1121967" id="1330">
+        <title>Image posted by Merjic</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/3405613" id="1331">
+        <title>Image posted by wrench1815</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/12485496" id="1332">
+        <title>Image posted by screwball808</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/10164131" id="1333">
+        <title>Image posted by null</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/3583999" id="1334">
+        <title>Image posted by HariPjotr</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/882887" id="1335">
+        <title>Image posted by Bradcatt</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/2317414" id="1336">
+        <title>Image posted by Poochilli</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/1125042" id="1337">
+        <title>Image posted by YuriTanaka</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/2469942" id="1338">
+        <title>Image posted by wolfcatz</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/16403868" id="1339">
+        <title>Image posted by k4idzu470</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/8858918" id="1340">
+        <title>Image posted by Delnight</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/2020991" id="1341">
+        <title>Image posted by Yuki_Hotaru</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/14683024" id="1342">
+        <title>Image posted by Fujishimi</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/10367314" id="1343">
+        <title>Image posted by eduardo_saffe</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/10956216" id="1344">
+        <title>Image posted by StarSniper</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/5015752" id="1345">
+        <title>Image posted by flowerwater</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/8558648" id="1346">
+        <title>Image posted by GSone</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/10260930" id="1347">
+        <title>Image posted by LordTerror</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/11168058" id="1348">
+        <title>Image posted by eduardo_saffe</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/13688420" id="1349">
+        <title>Image posted by JazzVoleski</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/1448127" id="1350">
+        <title>Image posted by 241255643</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/3207815" id="1351">
+        <title>Image posted by jaggamaster746</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/7285073" id="1352">
+        <title>Image posted by radioai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/6137817" id="1353">
+        <title>Image posted by evtqtyn912</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/4338332" id="1354">
+        <title>Image posted by Sevani</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/5016948" id="1355">
+        <title>Image posted by malass</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/5514813" id="1356">
+        <title>Image posted by kunge</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/6651130" id="1357">
+        <title>Image posted by sicm</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/14323712" id="1358">
+        <title>Image posted by popyay</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/9215682" id="1359">
+        <title>Image posted by kariboo</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/15698192" id="1360">
+        <title>Image posted by ArtbyAstralic</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/16372623" id="1361">
+        <title>Image posted by Fujishimi</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/147" id="1362">
+        <title>Image posted by eppinette</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/10620109" id="1363">
+        <title>Image posted by Delnight</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/1371072" id="1364">
+        <title>Image posted by xkkkxx</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/11388396" id="1365">
+        <title>Image posted by Rohanda</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/11428610" id="1366">
+        <title>Image posted by eduardo_saffe</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/10582310" id="1367">
+        <title>Image posted by Ajuro</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/4339447" id="1368">
+        <title>Image posted by Merjic</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/12778059" id="1369">
+        <title>Image posted by kariboo</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/73354" id="1370">
+        <title>Image posted by Lykon</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/13098455" id="1371">
+        <title>Image posted by Ethanar</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/15894285" id="1372">
+        <title>Image posted by Fujishimi</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/7629773" id="1373">
+        <title>Image posted by killedmyself</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/8622519" id="1374">
+        <title>Image posted by _Envy_</title>
       </bookmark>
     </folder>
     <folder id="120">
@@ -795,6 +1014,48 @@
       <bookmark href="https://civitai.com/models/155977?modelVersionId=576344" id="1271">
         <title>DEMON CORE (SFW&amp;NSFW) - 4.1 &quot;MIDGARD_BEAST&quot; | Stable Diffusion Checkpoint | Civitai</title>
       </bookmark>
+      <bookmark href="https://civitai.com/models/4468/counterfeit-v30" id="1375">
+        <title>Counterfeit-V3.0 - v3.0 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/122022/toon-babes?modelVersionId=132828" id="1376">
+        <title>Toon Babes - v1.0 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/199126/useless-animerge?modelVersionId=299136" id="1377">
+        <title>USELESS ANIMERGE - v12 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/100402/incursios-meme-diffusion?modelVersionId=107501" id="1378">
+        <title>Incursio&apos;s Meme Diffusion - v1.6 Pruned | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/30240/toonyou?modelVersionId=125771" id="1379">
+        <title>ToonYou - Beta 6 🌟 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/30240?modelVersionId=125771" id="1380">
+        <title>ToonYou - Beta 6 🌟 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/118495/exquisite-details?modelVersionId=140315" id="1381">
+        <title>Exquisite details极致华彩 - art | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/142313/aikimixl?modelVersionId=157794" id="1382">
+        <title>AikimiXL - v1 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/176449?modelVersionId=505268" id="1383">
+        <title>9527 Detail Realistic XL - v5.5-mix_BakedVAE | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/369575/envy-starlight-xl-01-lightning-anime-western-fusion-digital-painting-photography?modelVersionId=412927" id="1384">
+        <title>Envy Starlight XL 01 Lightning - Anime Western fusion digital painting / photography - v1.0 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/129896/hellonijicute25d" id="1385">
+        <title>hellonijicute25d - hellonijicute25d_v1.3g | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/79008/cutecake-a1" id="1386">
+        <title>CuteCake A1 - CuteCake v1.0 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/235515/nijiglee-25d" id="1387">
+        <title>NijiGlee-2.5D - Ecliptic (v1.0) | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/48671/dark-sushi-25d-25d" id="1388">
+        <title>Dark Sushi 2.5D 大颗寿司2.5D - v4.0 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
     </folder>
     <folder id="121">
       <title>oebd</title>
@@ -803,6 +1064,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/4499/unspeakable-horrors-negative-prompt?modelVersionId=5139" id="245">
         <title>Unspeakable Horrors (Negative prompt) - Unspeakable Horrors Composition only 4 vectors, trained | Stable Diffusion Embedding | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/119032/unaestheticxl-or-negative-ti?modelVersionId=363593" id="1389">
+        <title>unaestheticXL | Negative TI - _Alb2 | Stable Diffusion Embedding | Civitai</title>
       </bookmark>
     </folder>
     <folder id="286">
@@ -902,6 +1166,102 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/508186/flash-glowing-runes-sdxl" id="1279">
         <title>Flash Glowing Runes SDXL - Flash Glowing Runes SDXL | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/366990/pony-custom-styles?modelVersionId=454703" id="1390">
+        <title>Pony Custom styles - Kenva | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/426086/san-princess-mononoke-pony-v6?modelVersionId=474738" id="1391">
+        <title>San (Princess Mononoke) (Pony V6) - Pony V6 Rank 8/4 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/352581/vixons-pony-styles?modelVersionId=438517" id="1392">
+        <title>Vixon&apos;s Pony Styles - Red Glow v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/12597?modelVersionId=14856" id="1393">
+        <title>墨心 MoXin - 墨心 MoXin 1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/8029/elegant-hanfu-ruqun-style" id="1394">
+        <title>Elegant hanfu ruqun style - V1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/13090/gacha-splash-lora" id="1395">
+        <title>Gacha splash LORA - v4.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/71707/very-thin-pussy-or-siren-lora-012?modelVersionId=76437" id="1396">
+        <title>Very thin pussy: 一线天 | Siren Lora 012 - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/196786?modelVersionId=221269" id="1397">
+        <title>烟雾 - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/181735/shadow-clone-kage-bunshin-no-jutsu-from-naruto-concpet?modelVersionId=203958" id="1398">
+        <title>Shadow clone [影分身の術 (Kage Bunshin No Jutsu) from Naruto] (concpet) - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/4784/hinata-hyuuga-lora?modelVersionId=5480" id="1399">
+        <title>Hinata Hyuuga LoRA - hinata | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/158990/sdxlsacredbeast?modelVersionId=178749" id="1400">
+        <title>SDXL_Sacred_beast神兽 - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/144316/standing-leg-up-sex-legupsex?modelVersionId=160369" id="1401">
+        <title>Standing leg-up sex 高抬腿 广积粮 #legupsex - v0.6 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/280488/dynamink?modelVersionId=315843" id="1402">
+        <title>Dynamink - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/350330/a2-nierautomata-yuan?modelVersionId=391850" id="1403">
+        <title>a2 nier:automata 尼尔：机械纪元 - v0.9 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/126751/xl-fantasy-knights-by-hailoknight?modelVersionId=310551" id="1404">
+        <title>XL Fantasy Knights - by HailoKnight - v2.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/4514/pure-eros-face?modelVersionId=5119" id="1405">
+        <title>Pure Eros Face - PureErosFace_v1 | Stable Diffusion Embedding | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/423945/cyberpunk-bedroom?modelVersionId=472343" id="1406">
+        <title>cyberpunk bedroom - cyberpunk bedroom | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/261398/jjs-building-style-cyberpunk?modelVersionId=379635" id="1407">
+        <title>JJ&apos;s Building style - Cyberpunk - XL v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/320922/anchemix-space-room?modelVersionId=359856" id="1408">
+        <title>Anchemix space room 太空舱 卧室 - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/367577/futuristic-portraits-holographic-hologram-futuristic-ui?modelVersionId=410776" id="1409">
+        <title>Futuristic Portraits - Holographic - Hologram - Futuristic UI - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/275924/sdxl-loraembedding-eye-bleach-dont-mind-this-one?modelVersionId=340980" id="1410">
+        <title>SDXL - LoRA+Embedding - Eye Bleach ( Don&apos;t mind this one ) - v2.0 - Negative Embedding | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/120663/juggernaut-cinematic-xl-lora?modelVersionId=131991" id="1411">
+        <title>Juggernaut Cinematic XL LoRA - Version 2 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/105491/dreamart-style-lora?modelVersionId=137124" id="1412">
+        <title>DreamART Style LORA - v1.0 SDXL | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/352581/vixons-pony-styles?modelVersionId=399443" id="1413">
+        <title>Vixon&apos;s Pony Styles - detailed painting v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/401648/leggings" id="1414">
+        <title>Leggings - v2.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/138903/fishnet-stockings" id="1415">
+        <title>黑丝渔网袜丨Fishnet stockings - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/122325/jk-black-pantyhose" id="1416">
+        <title>jk 黑丝 black pantyhose - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/15271/20d" id="1417">
+        <title>20D黑丝 - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/144022/tutus-hisilk-8d-black-oil-shiny-one-piece-black-silk-pantyhose-seamless-bodystocking-black-bodysuit8d" id="1418">
+        <title>tutu’s HiSilk (8D black oil shiny one-piece black silk pantyhose seamless bodystocking black bodysuit)/图图的嗨丝（8D黑色马油油亮连体黑丝袜） - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/41003/betterblackstockings" id="1419">
+        <title>更好的黑丝 BetterBlackStockings - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/20759/flowergirl" id="1420">
+        <title>芳菲 flowergirl - v1 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/503573/flower-girl" id="1421">
+        <title>Flower Girl - Flower Girl v3.0 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="287">
@@ -1751,6 +2111,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/302172/charcoal-drawing-style-based-on-dalle-3?modelVersionId=513510" id="916">
         <title>Charcoal Drawing Style based on Dalle 3 - v3 experimental | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/14171?modelVersionId=16677" id="1422">
+        <title>Cute_girl_mix4 - v1.0 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="528">
