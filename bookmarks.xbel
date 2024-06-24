@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1436: for Floccus bookmark sync browser extension -->
+<!--- highestId :1437: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -688,6 +688,9 @@
         <title>Image posted by A_banana</title>
       </bookmark>
       <bookmark href="https://civitai.com/images/1726591" id="1436">
+        <title>Image posted by Bradcatt</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/1726598" id="1437">
         <title>Image posted by Bradcatt</title>
       </bookmark>
     </folder>
