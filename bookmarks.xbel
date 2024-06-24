@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1435: for Floccus bookmark sync browser extension -->
+<!--- highestId :1436: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -687,6 +687,9 @@
       <bookmark href="https://civitai.com/images/2858929" id="1435">
         <title>Image posted by A_banana</title>
       </bookmark>
+      <bookmark href="https://civitai.com/images/1726591" id="1436">
+        <title>Image posted by Bradcatt</title>
+      </bookmark>
     </folder>
     <folder id="118">
       <title>Ref_Img_Wait_to_Workflow_no_model_and_prompt</title>
@@ -791,9 +794,6 @@
       </bookmark>
       <bookmark href="https://prompthero.com/prompt-builder/f98c931806d" id="1267">
         <title>PromptHero - Search prompts for Stable Diffusion, ChatGPT &amp; Midjourney</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/1726591" id="1321">
-        <title>Image posted by Bradcatt</title>
       </bookmark>
       <bookmark href="https://civitai.com/images/527638" id="1322">
         <title>Image posted by Merjic</title>
