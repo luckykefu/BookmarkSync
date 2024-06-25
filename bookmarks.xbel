@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1458: for Floccus bookmark sync browser extension -->
+<!--- highestId :1460: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -1169,6 +1169,12 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/200255/hands-xl-sd-15?modelVersionId=471794" id="1458">
         <title>Hands XL + SD 1.5 - Hands v4 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/305864/pony-and-xl-weapon-katana-by-hailoknight?modelVersionId=343372" id="1459">
+        <title>Pony &amp; XL Weapon Katana - By HailoKnight - XL | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/213060/envy-cel-shaded-xl-01" id="1460">
+        <title>Envy Cel Shaded XL 01 - v1.0 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="287">
