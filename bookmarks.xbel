@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1445: for Floccus bookmark sync browser extension -->
+<!--- highestId :1446: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -711,6 +711,9 @@
       <bookmark href="https://civitai.com/images/14683024" id="1444">
         <title>Image posted by Fujishimi</title>
       </bookmark>
+      <bookmark href="https://civitai.com/images/10367314" id="1446">
+        <title>Image posted by eduardo_saffe</title>
+      </bookmark>
     </folder>
     <folder id="118">
       <title>Ref_Img_Wait_to_Workflow_no_model_and_prompt</title>
@@ -824,9 +827,6 @@
       </bookmark>
       <bookmark href="https://civitai.com/images/4311006" id="1326">
         <title>Image posted by Yuki_Hotaru</title>
-      </bookmark>
-      <bookmark href="https://civitai.com/images/10367314" id="1343">
-        <title>Image posted by eduardo_saffe</title>
       </bookmark>
       <bookmark href="https://civitai.com/images/8558648" id="1346">
         <title>Image posted by GSone</title>
