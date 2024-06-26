@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1462: for Floccus bookmark sync browser extension -->
+<!--- highestId :1463: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -4114,6 +4114,9 @@
   </bookmark>
   <bookmark href="https://store.kde.org/p/2141757" id="1259">
     <title>Shades of purple LAF Plasma 6</title>
+  </bookmark>
+  <bookmark href="https://www.pling.com/p/2133021" id="1463">
+    <title>Utterly Sweet Global for Plasma 6 - pling.com</title>
   </bookmark>
 </folder>
 </xbel>
