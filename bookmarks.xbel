@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1470: for Floccus bookmark sync browser extension -->
+<!--- highestId :1471: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -2083,9 +2083,6 @@
   <title>Media</title>
   <folder id="21">
     <title>Video</title>
-    <bookmark href="https://creator.xiaohongshu.com/creator/home" id="1464">
-      <title>小红书创作服务平台</title>
-    </bookmark>
     <bookmark href="https://channels.weixin.qq.com/login.html" id="1465">
       <title>视频号助手</title>
     </bookmark>
@@ -2103,6 +2100,9 @@
     </bookmark>
     <bookmark href="https://www.zhihu.com/zvideo/upload-video" id="1470">
       <title>(1 封私信 / 8 条消息) 知乎 - 知乎</title>
+    </bookmark>
+    <bookmark href="https://creator.xiaohongshu.com/publish/publish" id="1471">
+      <title>小红书创作服务平台</title>
     </bookmark>
   </folder>
   <folder id="22">
