@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1463: for Floccus bookmark sync browser extension -->
+<!--- highestId :1464: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -2083,26 +2083,8 @@
   <title>Media</title>
   <folder id="21">
     <title>Video</title>
-    <bookmark href="https://www.xiaohongshu.com/explore" id="122">
-      <title>小红书 - 你的生活指南</title>
-    </bookmark>
-    <bookmark href="https://www.kuaishou.com/new-reco" id="123">
-      <title>精彩推荐-快手</title>
-    </bookmark>
-    <bookmark href="https://www.bilibili.com/" id="124">
-      <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
-    </bookmark>
-    <bookmark href="https://www.douyin.com/?recommend=1" id="125">
-      <title>抖音-记录美好生活</title>
-    </bookmark>
-    <bookmark href="https://www.lofter.com/trend?act=qbview_20130930_01" id="126">
-      <title>趋势 | LOFTER（乐乎） - 让兴趣，更有趣</title>
-    </bookmark>
-    <bookmark href="https://weibo.com/" id="127">
-      <title>微博 – 随时随地发现新鲜事</title>
-    </bookmark>
-    <bookmark href="https://channels.weixin.qq.com/platform" id="128">
-      <title>视频号助手</title>
+    <bookmark href="https://creator.xiaohongshu.com/creator/home" id="1464">
+      <title>小红书创作服务平台</title>
     </bookmark>
   </folder>
   <folder id="22">
