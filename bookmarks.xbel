@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1475: for Floccus bookmark sync browser extension -->
+<!--- highestId :1477: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -3394,6 +3394,12 @@
   </bookmark>
   <bookmark href="https://lsp-plug.in/?page=plugins" id="1474">
     <title>Linux Studio 插件项目 --- Linux Studio Plugins Project</title>
+  </bookmark>
+  <bookmark href="https://x42-plugins.com/x42/x42-limiter" id="1476">
+    <title>x42 数字峰值限制器 --- x42 Digital Peak Limiter</title>
+  </bookmark>
+  <bookmark href="https://x42-plugins.com/x42/x42-eq" id="1477">
+    <title>x42 Equalizer</title>
   </bookmark>
 </folder>
 <folder id="982">
