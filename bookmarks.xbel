@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1479: for Floccus bookmark sync browser extension -->
+<!--- highestId :1481: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -3406,6 +3406,12 @@
   </bookmark>
   <bookmark href="https://x42-plugins.com/x42/x42-scope" id="1479">
     <title>x42 Oscilloscope</title>
+  </bookmark>
+  <bookmark href="https://x42-plugins.com/x42/x42-spectra" id="1480">
+    <title>x42 Spectrogram for Geeks</title>
+  </bookmark>
+  <bookmark href="https://x42-plugins.com/x42/x42-avldrums" id="1481">
+    <title>x42 AVL Drumkits</title>
   </bookmark>
 </folder>
 <folder id="982">
