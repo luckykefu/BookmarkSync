@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1473: for Floccus bookmark sync browser extension -->
+<!--- highestId :1475: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -3392,6 +3392,9 @@
   <bookmark href="http://yinlvwu.com/" id="969">
     <title>音律屋-音乐制作教学网</title>
   </bookmark>
+  <bookmark href="https://lsp-plug.in/?page=plugins" id="1474">
+    <title>Linux Studio 插件项目 --- Linux Studio Plugins Project</title>
+  </bookmark>
 </folder>
 <folder id="982">
   <title>win10UsingLog</title>
@@ -4115,5 +4118,8 @@
   <bookmark href="https://www.pling.com/p/2133021" id="1463">
     <title>Utterly Sweet Global for Plasma 6 - pling.com</title>
   </bookmark>
+</folder>
+<folder id="1475">
+  <title>New folder</title>
 </folder>
 </xbel>
