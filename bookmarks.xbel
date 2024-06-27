@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1469: for Floccus bookmark sync browser extension -->
+<!--- highestId :1470: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -2100,6 +2100,9 @@
     </bookmark>
     <bookmark href="https://baijiahao.baidu.com/builder/rc/edit?type=videoV2" id="1469">
       <title>百家号</title>
+    </bookmark>
+    <bookmark href="https://www.zhihu.com/zvideo/upload-video" id="1470">
+      <title>(1 封私信 / 8 条消息) 知乎 - 知乎</title>
     </bookmark>
   </folder>
   <folder id="22">
