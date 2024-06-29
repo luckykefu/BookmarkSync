@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1490: for Floccus bookmark sync browser extension -->
+<!--- highestId :1492: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -744,6 +744,9 @@
       <bookmark href="https://civitai.com/images/16613902" id="1462">
         <title>Image posted by LordTerror</title>
       </bookmark>
+      <bookmark href="https://civitai.com/images/17082055" id="1491">
+        <title>Image posted by Harbringer</title>
+      </bookmark>
     </folder>
     <folder id="118">
       <title>Ref_Img_Wait_to_Workflow_no_model_and_prompt</title>
@@ -971,6 +974,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/432244/forrealxl?modelVersionId=518881" id="1486">
         <title>ForRealXL - v0.5 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/522596/snowpony?modelVersionId=580625" id="1492">
+        <title>SnowPony - v1.0 | Stable Diffusion Checkpoint | Civitai</title>
       </bookmark>
     </folder>
     <folder id="121">
