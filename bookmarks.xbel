@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1483: for Floccus bookmark sync browser extension -->
+<!--- highestId :1484: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -965,6 +965,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/189989/fallenwrench-or-a-wrench-and-fallen-colab-checkpoint?modelVersionId=213385" id="1441">
         <title>FallenWrench | A Wrench and Fallen Colab Checkpoint - Incursion1815 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/537844/pixel-ahuskay?modelVersionId=597930" id="1484">
+        <title>Pixel Ahuskay - v2.0 | Stable Diffusion Checkpoint | Civitai</title>
       </bookmark>
     </folder>
     <folder id="121">
