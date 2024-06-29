@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1484: for Floccus bookmark sync browser extension -->
+<!--- highestId :1485: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -1190,6 +1190,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/132958/spider-man-costume" id="1473">
         <title>Spider-Man Costume - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/470073/popyays-epic-fantasy-style-or-pony-and-sdxl?modelVersionId=560995" id="1485">
+        <title>Popyay&apos;s Epic Fantasy Style | Pony &amp; SDXL - SDXL | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="287">
