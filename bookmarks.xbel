@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1489: for Floccus bookmark sync browser extension -->
+<!--- highestId :1490: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -1205,6 +1205,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/266792/ghostly-style-sdxl?modelVersionId=300836" id="1489">
         <title>Ghostly Style SDXL - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/120723/detailedeyesxl?modelVersionId=145907" id="1490">
+        <title>DetailedEyes_XL - v3.0 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="287">
