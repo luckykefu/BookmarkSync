@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1485: for Floccus bookmark sync browser extension -->
+<!--- highestId :1489: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -969,6 +969,9 @@
       <bookmark href="https://civitai.com/models/537844/pixel-ahuskay?modelVersionId=597930" id="1484">
         <title>Pixel Ahuskay - v2.0 | Stable Diffusion Checkpoint | Civitai</title>
       </bookmark>
+      <bookmark href="https://civitai.com/models/432244/forrealxl?modelVersionId=518881" id="1486">
+        <title>ForRealXL - v0.5 | Stable Diffusion Checkpoint | Civitai</title>
+      </bookmark>
     </folder>
     <folder id="121">
       <title>oebd</title>
@@ -1193,6 +1196,15 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/470073/popyays-epic-fantasy-style-or-pony-and-sdxl?modelVersionId=560995" id="1485">
         <title>Popyay&apos;s Epic Fantasy Style | Pony &amp; SDXL - SDXL | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/506703/sci-fi-future-generations-by-hailoknight?modelVersionId=576731" id="1487">
+        <title>Sci-fi Future Generations - By HailoKnight - Pony | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/352581/vixons-pony-styles?modelVersionId=515155" id="1488">
+        <title>Vixon&apos;s Pony Styles - detailed pixel art | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/266792/ghostly-style-sdxl?modelVersionId=300836" id="1489">
+        <title>Ghostly Style SDXL - v1.0 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="287">
