@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1495: for Floccus bookmark sync browser extension -->
+<!--- highestId :1497: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -755,6 +755,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/images/17363604" id="1495">
         <title>Image posted by Thelocometal</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/18085386" id="1496">
+        <title>Image posted by Rythievakem</title>
       </bookmark>
     </folder>
     <folder id="118">
@@ -3416,38 +3419,14 @@
 </folder>
 <folder id="950">
   <title>VST</title>
-  <bookmark href="https://freeprosoftz.com/revoice-pro-crack-free-download/" id="966">
-    <title>Revoice Pro 4.5.2.3 Crack with Keygen Full Free Download [2023] – FreeProSoftz</title>
-  </bookmark>
   <bookmark href="http://yinlvwu.com/hyzs/#delay" id="967">
     <title>音律屋-混音助手</title>
-  </bookmark>
-  <bookmark href="http://yinlvwu.com/2023/02/17/%e3%80%8c%e5%ae%bf%e4%b8%bb%e3%80%8ddaw%e6%95%b0%e5%ad%97%e9%9f%b3%e9%a2%91%e5%b7%a5%e4%bd%9c%e7%ab%99studio-one6/" id="968">
-    <title>「宿主」DAW数字音频工作站Studio One6 – 音律屋 - 音乐制作教学网</title>
-  </bookmark>
-  <bookmark href="http://yinlvwu.com/" id="969">
-    <title>音律屋-音乐制作教学网</title>
   </bookmark>
   <bookmark href="https://lsp-plug.in/?page=plugins" id="1474">
     <title>Linux Studio 插件项目 --- Linux Studio Plugins Project</title>
   </bookmark>
-  <bookmark href="https://x42-plugins.com/x42/x42-limiter" id="1476">
-    <title>x42 数字峰值限制器 --- x42 Digital Peak Limiter</title>
-  </bookmark>
-  <bookmark href="https://x42-plugins.com/x42/x42-eq" id="1477">
-    <title>x42 Equalizer</title>
-  </bookmark>
-  <bookmark href="https://x42-plugins.com/x42/x42-meters" id="1478">
-    <title>x42 Meter Collection</title>
-  </bookmark>
-  <bookmark href="https://x42-plugins.com/x42/x42-scope" id="1479">
-    <title>x42 Oscilloscope</title>
-  </bookmark>
-  <bookmark href="https://x42-plugins.com/x42/x42-spectra" id="1480">
-    <title>x42 Spectrogram for Geeks</title>
-  </bookmark>
-  <bookmark href="https://x42-plugins.com/x42/x42-avldrums" id="1481">
-    <title>x42 AVL Drumkits</title>
+  <bookmark href="https://www.fabfilter.com/download" id="1497">
+    <title>FabFilter Download VST VST3 AU CLAP AAX AudioSuite</title>
   </bookmark>
 </folder>
 <folder id="982">
