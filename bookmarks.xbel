@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1497: for Floccus bookmark sync browser extension -->
+<!--- highestId :1519: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -28,6 +28,12 @@
     <bookmark href="https://app.uberduck.ai/rap#beat" id="100">
       <title>Uberduck - AI Generated Raps</title>
     </bookmark>
+    <folder id="1513">
+      <title>split music</title>
+      <bookmark href="https://vocalremover.org/zh/splitter-ai" id="1515">
+        <title>乐器分离器</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="14">
     <title>Chat</title>
@@ -39,6 +45,9 @@
     </bookmark>
     <bookmark href="https://www.coze.com/store/bot/7365493133481771014?panel=1&amp;bid=6cp1lks3c8005" id="103">
       <title>Coze: Next-Gen AI Chatbot Developing Platform</title>
+    </bookmark>
+    <bookmark href="https://tongyi.aliyun.com/qianwen/" id="1498">
+      <title>通义</title>
     </bookmark>
   </folder>
   <folder id="15">
@@ -55,6 +64,9 @@
         <title>OpenModelDB</title>
       </bookmark>
     </folder>
+    <bookmark href="https://prompthero.com/" id="1499">
+      <title>PromptHero - Search prompts for Stable Diffusion, ChatGPT &amp; Midjourney</title>
+    </bookmark>
   </folder>
   <folder id="17">
     <title>Logo</title>
@@ -759,6 +771,18 @@
       <bookmark href="https://civitai.com/images/18085386" id="1496">
         <title>Image posted by Rythievakem</title>
       </bookmark>
+      <bookmark href="https://civitai.com/images/18272705" id="1500">
+        <title>Image posted by VNCat</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/18273634" id="1501">
+        <title>Image posted by AdnanVenusa</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/18255517" id="1502">
+        <title>Image posted by Fujishimi</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/images/18099333" id="1503">
+        <title>Image posted by Fujishimi</title>
+      </bookmark>
     </folder>
     <folder id="118">
       <title>Ref_Img_Wait_to_Workflow_no_model_and_prompt</title>
@@ -1226,6 +1250,24 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/120723/detailedeyesxl?modelVersionId=145907" id="1490">
         <title>DetailedEyes_XL - v3.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/229213/extremely-detailed-no-trigger-slidersntcaixyz?modelVersionId=258687" id="1504">
+        <title>extremely detailed (no trigger) - sliders.ntcai.xyz - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/368525/kbkentmere400?modelVersionId=413505" id="1505">
+        <title>KB_Kentmere400 - SDXL | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/213307/envy-zoom-slider-xl-01?modelVersionId=240274" id="1506">
+        <title>Envy Zoom Slider XL 01 - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/119399/concept-perfect-eyes?modelVersionId=129711" id="1507">
+        <title>Concept: Perfect Eyes - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/408636/xl-mecha-angel-soldier-by-hailoknight?modelVersionId=455504" id="1508">
+        <title>XL Mecha Angel Soldier - By HailoKnight - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/557002/cute-robots?modelVersionId=619982" id="1509">
+        <title>Cute Robots - V1 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="287">
@@ -2123,6 +2165,21 @@
   <bookmark href="https://www.hedra.com/app/characters" id="1483">
     <title>Hedra</title>
   </bookmark>
+  <folder id="1514">
+    <title>Video</title>
+    <bookmark href="https://klingai.kuaishou.com/" id="1516">
+      <title>可灵 AI - 新一代 AI 创意生产力平台</title>
+    </bookmark>
+    <bookmark href="https://jimeng.jianying.com/ai-tool/home" id="1517">
+      <title>即梦AI - 一站式AI创作平台</title>
+    </bookmark>
+    <bookmark href="https://app.runwayml.com/video-tools/teams/kefu51252/dashboard" id="1518">
+      <title>Dashboard - Runway</title>
+    </bookmark>
+    <bookmark href="https://www.hedra.com/?utm_source=ai-bot.cn" id="1519">
+      <title>Hedra</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="2">
   <title>Media</title>
@@ -2329,6 +2386,9 @@
         </bookmark>
         <bookmark href="https://hexingxing.cn/configure-shared-lan-http-network-proxy-for-windows-android-and-ios/#%E5%BD%93_Android_%E4%B8%BA%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E8%AE%BE%E5%A4%87%E6%97%B6" id="285">
           <title>Windows、Android、iOS配置共享局域网HTTP网络代理 - 何星星</title>
+        </bookmark>
+        <bookmark href="https://www.axjsq01.com/" id="1510">
+          <title>安心加速器 - 永久免费,全球专线加速</title>
         </bookmark>
       </folder>
     </folder>
@@ -3428,6 +3488,9 @@
   <bookmark href="https://www.fabfilter.com/download" id="1497">
     <title>FabFilter Download VST VST3 AU CLAP AAX AudioSuite</title>
   </bookmark>
+  <bookmark href="https://hiphopmakers.com/best-free-linux-vst-plugins" id="1511">
+    <title>30 Best FREE Linux VST Plugins For 2024! (Ubuntu)</title>
+  </bookmark>
 </folder>
 <folder id="982">
   <title>win10UsingLog</title>
@@ -4158,4 +4221,7 @@
 <folder id="1475">
   <title>New folder</title>
 </folder>
+<bookmark href="http://jimureport.com/" id="1512">
+  <title>积木报表官网 - JimuReport报表,免费的企业级Web报表工具(可视化报表_低代码报表_在线大屏设计器)</title>
+</bookmark>
 </xbel>
