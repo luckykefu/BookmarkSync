@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1519: for Floccus bookmark sync browser extension -->
+<!--- highestId :1520: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -1268,6 +1268,9 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/557002/cute-robots?modelVersionId=619982" id="1509">
         <title>Cute Robots - V1 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/148599" id="1520">
+        <title>旗袍美人 - v1.0 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="287">
