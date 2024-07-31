@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1543: for Floccus bookmark sync browser extension -->
+<!--- highestId :1546: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -47,12 +47,6 @@
       <title>Coze: Next-Gen AI Chatbot Developing Platform</title>
     </bookmark>
     <bookmark href="https://tongyi.aliyun.com/qianwen/" id="1498">
-      <title>通义</title>
-    </bookmark>
-    <bookmark href="https://www.coze.cn/" id="1521">
-      <title>扣子 - AI 智能体开发平台</title>
-    </bookmark>
-    <bookmark href="https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee1zBYunq" id="1522">
       <title>通义</title>
     </bookmark>
   </folder>
@@ -2170,9 +2164,6 @@
     <bookmark href="https://comfy.icu/node" id="1280">
       <title>comfy.icu/node</title>
     </bookmark>
-    <bookmark href="https://www.liblib.art/comfy" id="1523">
-      <title>LiblibAI-哩布哩布AI - 中国领先的AI创作平台</title>
-    </bookmark>
   </folder>
   <bookmark href="https://www.hedra.com/app/characters" id="1483">
     <title>Hedra</title>
@@ -2190,15 +2181,6 @@
     </bookmark>
     <bookmark href="https://www.hedra.com/?utm_source=ai-bot.cn" id="1519">
       <title>Hedra</title>
-    </bookmark>
-  </folder>
-  <folder id="1532">
-    <title>SD</title>
-    <bookmark href="https://www.liblib.art/" id="1533">
-      <title>LiblibAI-哩布哩布AI - 中国领先的AI创作平台</title>
-    </bookmark>
-    <bookmark href="https://sdcs.qpipi.com/" id="1534">
-      <title>Stable Diffusion &amp; NovelAI 艺术风格速查表</title>
     </bookmark>
   </folder>
 </folder>
@@ -2249,6 +2231,9 @@
       <title>即时热榜-今日热点,热搜,排行榜聚合网站</title>
     </bookmark>
   </folder>
+  <bookmark href="https://afdian.net/feed" id="1544">
+    <title>动态丨爱发电</title>
+  </bookmark>
   <bookmark href="https://wantquotes.net/" id="25">
     <title>WantQuotes 据意查句</title>
   </bookmark>
@@ -2260,6 +2245,9 @@
   </bookmark>
   <bookmark href="https://discord.com/" id="28">
     <title>Discord | Your Place to Talk and Hang Out</title>
+  </bookmark>
+  <bookmark href="https://yahdv412vbi.feishu.cn/messenger/" id="1545">
+    <title>飞书</title>
   </bookmark>
   <folder id="30">
     <title>MDEditor</title>
@@ -2277,39 +2265,6 @@
     <title>cover</title>
     <bookmark href="https://www.logosc.cn/design/" id="290">
       <title>一站式AI在线设计平台，全场景AI设计工具 - AI设计师</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://flomoapp.com/" id="1525">
-    <title>flomo · 浮墨笔记</title>
-  </bookmark>
-  <folder id="1535">
-    <title>押韵</title>
-    <bookmark href="https://wanmeiyunjiao.com/" id="1538">
-      <title>完美韵脚 - 让押韵变得简单</title>
-    </bookmark>
-    <bookmark href="https://zh.azrhymes.com/" id="1539">
-      <title>押韵词典 - 作词者，说唱歌手和诗人的押韵词典</title>
-    </bookmark>
-    <bookmark href="https://zh.azrhymes.com/?%E6%8A%BC%E9%9F%B5=" id="1540">
-      <title>押韵词典 - 作词者，说唱歌手和诗人的押韵词典</title>
-    </bookmark>
-    <bookmark href="https://peiyin.wozhiyi.com/tools/rhyme" id="1541">
-      <title>押韵助手_在线押韵生成器_押韵查询_押韵工具</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://wordart.com/edit/6mubuqa8n24q" id="1526">
-    <title>Untitled 1 - Edit - WordArt.com</title>
-  </bookmark>
-  <folder id="1536">
-    <title>audio2srt</title>
-    <bookmark href="https://www.audio2edit.com/zh/speech-to-text" id="1542">
-      <title>在线将语音转换为文本-免费音频转换器</title>
-    </bookmark>
-  </folder>
-  <folder id="1537">
-    <title>audio2waveform</title>
-    <bookmark href="https://www.veed.io/workspaces/f7bd2694-d52f-4f14-ba54-5f0b516f0a02/home" id="1543">
-      <title>Home - VEED</title>
     </bookmark>
   </folder>
 </folder>
@@ -2437,9 +2392,6 @@
         </bookmark>
       </folder>
     </folder>
-    <bookmark href="https://www.wandoujia.com/" id="1527">
-      <title>豌豆荚手机精灵 豌豆荚手机助手-海量安卓APP应用与游戏免费下载</title>
-    </bookmark>
   </folder>
   <bookmark href="https://hao.su/" id="32">
     <title>不死鸟 - 分享为王</title>
@@ -2452,6 +2404,9 @@
   </bookmark>
   <bookmark href="https://quickref.cn/" id="35">
     <title>Quick Reference &amp; Quick Reference</title>
+  </bookmark>
+  <bookmark href="https://www.ypojie.com/" id="1546">
+    <title>易破解 - 给你所需要的内容</title>
   </bookmark>
 </folder>
 <folder id="4">
@@ -3500,9 +3455,6 @@
   <bookmark href="https://tiktok.com/" id="93">
     <title>tiktok.com</title>
   </bookmark>
-  <bookmark href="https://lumalabs.ai/dream-machine/creations" id="1524">
-    <title>Luma Dream Machine</title>
-  </bookmark>
 </folder>
 <folder id="949">
   <title>Vpn</title>
@@ -3541,18 +3493,6 @@
   </bookmark>
   <bookmark href="https://hiphopmakers.com/best-free-linux-vst-plugins" id="1511">
     <title>30 Best FREE Linux VST Plugins For 2024! (Ubuntu)</title>
-  </bookmark>
-  <bookmark href="https://sixthsample.com/deelay/" id="1528">
-    <title>Deelay | Free Versatile Delay Plugin</title>
-  </bookmark>
-  <bookmark href="https://www.gvst.co.uk/downloads.htm" id="1529">
-    <title>GVST - 下载 --- GVST - Downloads</title>
-  </bookmark>
-  <bookmark href="https://bertomaudio.com/denoiser-classic.html" id="1530">
-    <title>Bertom Audio - Denoiser Classic</title>
-  </bookmark>
-  <bookmark href="https://www.flpdown.com/category/vstplugins" id="1531">
-    <title>免费音源 - FL水果工程网</title>
   </bookmark>
 </folder>
 <folder id="982">
@@ -4280,9 +4220,6 @@
   <bookmark href="https://www.pling.com/p/2133021" id="1463">
     <title>Utterly Sweet Global for Plasma 6 - pling.com</title>
   </bookmark>
-</folder>
-<folder id="1475">
-  <title>New folder</title>
 </folder>
 <bookmark href="http://jimureport.com/" id="1512">
   <title>积木报表官网 - JimuReport报表,免费的企业级Web报表工具(可视化报表_低代码报表_在线大屏设计器)</title>
