@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1546: for Floccus bookmark sync browser extension -->
+<!--- highestId :1560: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -34,6 +34,9 @@
         <title>乐器分离器</title>
       </bookmark>
     </folder>
+    <bookmark href="https://bgmcat.com/home" id="1547">
+      <title>AI定制背景音乐下载平台-BGM猫</title>
+    </bookmark>
   </folder>
   <folder id="14">
     <title>Chat</title>
@@ -48,6 +51,9 @@
     </bookmark>
     <bookmark href="https://tongyi.aliyun.com/qianwen/" id="1498">
       <title>通义</title>
+    </bookmark>
+    <bookmark href="https://www.opkfc.com/list" id="1548">
+      <title>数字玩家</title>
     </bookmark>
   </folder>
   <folder id="15">
@@ -2183,6 +2189,15 @@
       <title>Hedra</title>
     </bookmark>
   </folder>
+  <folder id="1555">
+    <title>ppt</title>
+    <bookmark href="https://www.islide.cc/?mtm_campaign=iui" id="1558">
+      <title>iSlide- 让PPT设计简单起来 | PPT模板下载平台</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://chat.moyanaigc.com/#/sceneModel/work" id="1549">
+    <title>工作台 - 陌言AI</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Media</title>
@@ -2265,6 +2280,12 @@
     <title>cover</title>
     <bookmark href="https://www.logosc.cn/design/" id="290">
       <title>一站式AI在线设计平台，全场景AI设计工具 - AI设计师</title>
+    </bookmark>
+  </folder>
+  <folder id="1556">
+    <title>tool</title>
+    <bookmark href="https://fireflycard.shushiai.com/" id="1559">
+      <title>流光卡片 - 让分享更优雅，最好看具创意的文字卡片工具 | nuxt-app</title>
     </bookmark>
   </folder>
 </folder>
@@ -2464,6 +2485,9 @@
   </bookmark>
   <bookmark href="https://www.shukui.net/" id="51">
     <title>书葵网_海量图书检索下载</title>
+  </bookmark>
+  <bookmark href="https://zh.singlelogin.re/" id="1550">
+    <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
   </bookmark>
 </folder>
 <folder id="7">
@@ -2692,6 +2716,9 @@
     <bookmark href="https://standart.io/" id="307">
       <title>Standart.io</title>
     </bookmark>
+    <bookmark href="https://vectorcraftr.com/directory/notion" id="1551">
+      <title>notion illustration - vectorcraftr</title>
+    </bookmark>
   </folder>
   <folder id="55">
     <title>Free 家居</title>
@@ -2718,6 +2745,9 @@
     <title>Free Music</title>
     <bookmark href="https://pixabay.com/zh/music/" id="170">
       <title>10000多种免版税音乐可供下载 - Pixabay - Pixabay</title>
+    </bookmark>
+    <bookmark href="https://freemind.fit/?sounds=crickets%2C1%3Bmusic1%2C1" id="1552">
+      <title>FreeMind — 专注、冥想、放松、睡眠，轻松创建专注或放松的音乐氛围!</title>
     </bookmark>
   </folder>
 </folder>
@@ -3494,6 +3524,12 @@
   <bookmark href="https://hiphopmakers.com/best-free-linux-vst-plugins" id="1511">
     <title>30 Best FREE Linux VST Plugins For 2024! (Ubuntu)</title>
   </bookmark>
+  <bookmark href="https://klanghelm.com/contents/products/IVGI" id="1553">
+    <title>Klanghelm</title>
+  </bookmark>
+  <bookmark href="https://splice.com/plugins/3788-ott-vst-au-by-xfer-records" id="1554">
+    <title>OTT by Xfer Records - Plugins (VST, AU) | Splice</title>
+  </bookmark>
 </folder>
 <folder id="982">
   <title>win10UsingLog</title>
@@ -4224,4 +4260,10 @@
 <bookmark href="http://jimureport.com/" id="1512">
   <title>积木报表官网 - JimuReport报表,免费的企业级Web报表工具(可视化报表_低代码报表_在线大屏设计器)</title>
 </bookmark>
+<folder id="1557">
+  <title>music</title>
+  <bookmark href="https://unlock.haitangw.net/" id="1560">
+    <title>音乐解锁</title>
+  </bookmark>
+</folder>
 </xbel>
