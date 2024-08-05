@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1560: for Floccus bookmark sync browser extension -->
+<!--- highestId :1571: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -18,9 +18,6 @@
     </bookmark>
     <bookmark href="https://mubert.com/render" id="97">
       <title>Royalty-Free Music Generation For App And Content Creators | Mubert Render</title>
-    </bookmark>
-    <bookmark href="https://aising.ing/zh/create" id="98">
-      <title>免费生成AI音乐 | AI Singing</title>
     </bookmark>
     <bookmark href="https://www.tiangong.cn/music" id="99">
       <title>天工AI音乐</title>
@@ -42,12 +39,6 @@
     <title>Chat</title>
     <bookmark href="https://kimi.moonshot.cn/" id="101">
       <title>Kimi.ai - 帮你看更大的世界</title>
-    </bookmark>
-    <bookmark href="https://www.coze.com/space/7345011225149325319/bot/7365485027591241734" id="102">
-      <title>luckincafe - Bots - Coze</title>
-    </bookmark>
-    <bookmark href="https://www.coze.com/store/bot/7365493133481771014?panel=1&amp;bid=6cp1lks3c8005" id="103">
-      <title>Coze: Next-Gen AI Chatbot Developing Platform</title>
     </bookmark>
     <bookmark href="https://tongyi.aliyun.com/qianwen/" id="1498">
       <title>通义</title>
@@ -2287,6 +2278,30 @@
     <bookmark href="https://fireflycard.shushiai.com/" id="1559">
       <title>流光卡片 - 让分享更优雅，最好看具创意的文字卡片工具 | nuxt-app</title>
     </bookmark>
+    <bookmark href="https://www.aconvert.com/cn/audio/extract/" id="1561">
+      <title>在线提取音频 - 从视频中提取音频</title>
+    </bookmark>
+    <bookmark href="https://vocalremover.org/zh/" id="1562">
+      <title>分离人声 [AI]</title>
+    </bookmark>
+    <bookmark href="https://www.yinziai.com/" id="1563">
+      <title>在线免费人声分离、伴奏分离器 | 音子AI</title>
+    </bookmark>
+    <bookmark href="https://www.audio2edit.com/zh/speech-to-text" id="1564">
+      <title>在线将语音转换为文本-免费音频转换器</title>
+    </bookmark>
+    <bookmark href="https://vocalremover.org/" id="1565">
+      <title>Vocal Remover and Isolation [AI]</title>
+    </bookmark>
+    <bookmark href="https://ai-midi.com/" id="1566">
+      <title>AI-powered audio to midi converter | AI-MIDI</title>
+    </bookmark>
+    <bookmark href="https://www.xiazaitool.com/blbl" id="1567">
+      <title>B站(bilibili)视频解析工具_B站视频去水印下载_B站视频下载保存(支持B站视频在线下载)</title>
+    </bookmark>
+    <bookmark href="https://tools.kalvinbg.cn/media/video_rmwatermark" id="1568">
+      <title>视频去水印 - Kalvin在线工具</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="3">
@@ -3913,6 +3928,9 @@
     <bookmark href="https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh" id="1482">
       <title>Dark Reader</title>
     </bookmark>
+    <bookmark href="https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb" id="1569">
+      <title>猫抓 - Chrome 应用商店</title>
+    </bookmark>
   </folder>
   <folder id="1091">
     <title>FirefoxEx</title>
@@ -4265,5 +4283,11 @@
   <bookmark href="https://unlock.haitangw.net/" id="1560">
     <title>音乐解锁</title>
   </bookmark>
+  <folder id="1570">
+    <title>beat</title>
+    <bookmark href="https://www.beatstars.com/" id="1571">
+      <title>BeatStars | World&apos;s #1 Music Marketplace to Buy &amp; Sell Beats</title>
+    </bookmark>
+  </folder>
 </folder>
 </xbel>
