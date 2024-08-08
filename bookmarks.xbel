@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1571: for Floccus bookmark sync browser extension -->
+<!--- highestId :1598: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>AI</title>
@@ -34,6 +34,9 @@
     <bookmark href="https://bgmcat.com/home" id="1547">
       <title>AI定制背景音乐下载平台-BGM猫</title>
     </bookmark>
+    <bookmark href="https://bgmcat.com/home" id="1572">
+      <title>AI定制背景音乐下载平台-BGM猫</title>
+    </bookmark>
   </folder>
   <folder id="14">
     <title>Chat</title>
@@ -45,6 +48,12 @@
     </bookmark>
     <bookmark href="https://www.opkfc.com/list" id="1548">
       <title>数字玩家</title>
+    </bookmark>
+    <bookmark href="https://www.opkfc.com/list" id="1573">
+      <title>数字玩家</title>
+    </bookmark>
+    <bookmark href="https://chat.lify.vip/chat?agent=&amp;topic=77IA9CWb" id="1574">
+      <title>随便聊聊 · AI 智慧岛</title>
     </bookmark>
   </folder>
   <folder id="15">
@@ -2189,6 +2198,15 @@
   <bookmark href="https://chat.moyanaigc.com/#/sceneModel/work" id="1549">
     <title>工作台 - 陌言AI</title>
   </bookmark>
+  <folder id="1583">
+    <title>ppt</title>
+    <bookmark href="https://www.islide.cc/?mtm_campaign=iui" id="1586">
+      <title>iSlide- 让PPT设计简单起来 | PPT模板下载平台</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://chat.moyanaigc.com/#/sceneModel/work" id="1575">
+    <title>工作台 - 陌言AI</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Media</title>
@@ -2300,6 +2318,36 @@
       <title>B站(bilibili)视频解析工具_B站视频去水印下载_B站视频下载保存(支持B站视频在线下载)</title>
     </bookmark>
     <bookmark href="https://tools.kalvinbg.cn/media/video_rmwatermark" id="1568">
+      <title>视频去水印 - Kalvin在线工具</title>
+    </bookmark>
+  </folder>
+  <folder id="1584">
+    <title>tool</title>
+    <bookmark href="https://fireflycard.shushiai.com/" id="1587">
+      <title>流光卡片 - 让分享更优雅，最好看具创意的文字卡片工具 | nuxt-app</title>
+    </bookmark>
+    <bookmark href="https://www.aconvert.com/cn/audio/extract/" id="1588">
+      <title>在线提取音频 - 从视频中提取音频</title>
+    </bookmark>
+    <bookmark href="https://vocalremover.org/zh/" id="1589">
+      <title>分离人声 [AI]</title>
+    </bookmark>
+    <bookmark href="https://www.yinziai.com/" id="1590">
+      <title>在线免费人声分离、伴奏分离器 | 音子AI</title>
+    </bookmark>
+    <bookmark href="https://www.audio2edit.com/zh/speech-to-text" id="1591">
+      <title>在线将语音转换为文本-免费音频转换器</title>
+    </bookmark>
+    <bookmark href="https://vocalremover.org/" id="1592">
+      <title>Vocal Remover and Isolation [AI]</title>
+    </bookmark>
+    <bookmark href="https://ai-midi.com/" id="1593">
+      <title>AI-powered audio to midi converter | AI-MIDI</title>
+    </bookmark>
+    <bookmark href="https://www.xiazaitool.com/blbl" id="1594">
+      <title>B站(bilibili)视频解析工具_B站视频去水印下载_B站视频下载保存(支持B站视频在线下载)</title>
+    </bookmark>
+    <bookmark href="https://tools.kalvinbg.cn/media/video_rmwatermark" id="1595">
       <title>视频去水印 - Kalvin在线工具</title>
     </bookmark>
   </folder>
@@ -2444,6 +2492,12 @@
   <bookmark href="https://www.ypojie.com/" id="1546">
     <title>易破解 - 给你所需要的内容</title>
   </bookmark>
+  <bookmark href="https://www.ypojie.com/" id="1576">
+    <title>易破解 - 给你所需要的内容</title>
+  </bookmark>
+  <bookmark href="https://rutracker.org/forum/index.php" id="1577">
+    <title>RuTracker.org --- RuTracker.org</title>
+  </bookmark>
 </folder>
 <folder id="4">
   <title>Email</title>
@@ -2502,6 +2556,9 @@
     <title>书葵网_海量图书检索下载</title>
   </bookmark>
   <bookmark href="https://zh.singlelogin.re/" id="1550">
+    <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
+  </bookmark>
+  <bookmark href="https://zh.singlelogin.re/" id="1578">
     <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
   </bookmark>
 </folder>
@@ -2734,6 +2791,9 @@
     <bookmark href="https://vectorcraftr.com/directory/notion" id="1551">
       <title>notion illustration - vectorcraftr</title>
     </bookmark>
+    <bookmark href="https://vectorcraftr.com/directory/notion" id="1579">
+      <title>notion illustration - vectorcraftr</title>
+    </bookmark>
   </folder>
   <folder id="55">
     <title>Free 家居</title>
@@ -2762,6 +2822,9 @@
       <title>10000多种免版税音乐可供下载 - Pixabay - Pixabay</title>
     </bookmark>
     <bookmark href="https://freemind.fit/?sounds=crickets%2C1%3Bmusic1%2C1" id="1552">
+      <title>FreeMind — 专注、冥想、放松、睡眠，轻松创建专注或放松的音乐氛围!</title>
+    </bookmark>
+    <bookmark href="https://freemind.fit/?sounds=crickets%2C1%3Bmusic1%2C1" id="1580">
       <title>FreeMind — 专注、冥想、放松、睡眠，轻松创建专注或放松的音乐氛围!</title>
     </bookmark>
   </folder>
@@ -3542,7 +3605,13 @@
   <bookmark href="https://klanghelm.com/contents/products/IVGI" id="1553">
     <title>Klanghelm</title>
   </bookmark>
+  <bookmark href="https://klanghelm.com/contents/products/IVGI" id="1581">
+    <title>Klanghelm</title>
+  </bookmark>
   <bookmark href="https://splice.com/plugins/3788-ott-vst-au-by-xfer-records" id="1554">
+    <title>OTT by Xfer Records - Plugins (VST, AU) | Splice</title>
+  </bookmark>
+  <bookmark href="https://splice.com/plugins/3788-ott-vst-au-by-xfer-records" id="1582">
     <title>OTT by Xfer Records - Plugins (VST, AU) | Splice</title>
   </bookmark>
 </folder>
@@ -3904,14 +3973,8 @@
   <title>BrowserEx</title>
   <folder id="1090">
     <title>ChromeEx</title>
-    <bookmark href="https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo" id="1093">
-      <title>篡改猴</title>
-    </bookmark>
     <bookmark href="https://chromewebstore.google.com/detail/%E6%B5%AE%E5%9B%BE%E7%A7%80/mgpdnhlllbpncjpgokgfogidhoegebod" id="1094">
       <title>浮图秀</title>
-    </bookmark>
-    <bookmark href="https://chromewebstore.google.com/detail/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A-%E7%82%BA-youtube/cmedhionkhpnakcndndgjdbohmhepckk?pli=1" id="1095">
-      <title>过滤广告 為 Youtube™</title>
     </bookmark>
     <bookmark href="https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp" id="1098">
       <title>FoxyProxy</title>
@@ -3919,17 +3982,11 @@
     <bookmark href="https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh" id="1100">
       <title>沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费</title>
     </bookmark>
-    <bookmark href="https://chromewebstore.google.com/detail/google-%E7%BF%BB%E8%AF%91/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh-CNChrome" id="1101">
-      <title>Google 翻译</title>
-    </bookmark>
     <bookmark href="https://chromewebstore.google.com/detail/floccus-bookmarks-sync/fnaicdffflnofjppbagibeoednhnbjhg" id="1260">
       <title>floccus bookmarks sync</title>
     </bookmark>
-    <bookmark href="https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh" id="1482">
-      <title>Dark Reader</title>
-    </bookmark>
-    <bookmark href="https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb" id="1569">
-      <title>猫抓 - Chrome 应用商店</title>
+    <bookmark href="https://chromewebstore.google.com/detail/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A-%E7%82%BA-youtube/cmedhionkhpnakcndndgjdbohmhepckk?pli=1" id="1095">
+      <title>过滤广告 為 Youtube™ - Chrome 应用商店</title>
     </bookmark>
   </folder>
   <folder id="1091">
@@ -4286,6 +4343,18 @@
   <folder id="1570">
     <title>beat</title>
     <bookmark href="https://www.beatstars.com/" id="1571">
+      <title>BeatStars | World&apos;s #1 Music Marketplace to Buy &amp; Sell Beats</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="1585">
+  <title>music</title>
+  <bookmark href="https://unlock.haitangw.net/" id="1596">
+    <title>音乐解锁</title>
+  </bookmark>
+  <folder id="1597">
+    <title>beat</title>
+    <bookmark href="https://www.beatstars.com/" id="1598">
       <title>BeatStars | World&apos;s #1 Music Marketplace to Buy &amp; Sell Beats</title>
     </bookmark>
   </folder>
