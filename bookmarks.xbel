@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4492: for Floccus bookmark sync browser extension -->
+<!--- highestId :4493: for Floccus bookmark sync browser extension -->
 
 <folder id="3046">
   <title>AI</title>
@@ -2757,6 +2757,9 @@
     </bookmark>
     <bookmark href="https://freemind.fit/?sounds=crickets%2C1%3Bmusic1%2C1" id="3225">
       <title>FreeMind — 专注、冥想、放松、睡眠，轻松创建专注或放松的音乐氛围!</title>
+    </bookmark>
+    <bookmark href="https://www.ear0.com/" id="4493">
+      <title>耳聆网 - 听见世界之美 - (声音分享云|音效素材库)</title>
     </bookmark>
   </folder>
 </folder>
