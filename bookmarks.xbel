@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4493: for Floccus bookmark sync browser extension -->
+<!--- highestId :4494: for Floccus bookmark sync browser extension -->
 
 <folder id="3046">
   <title>AI</title>
@@ -2306,6 +2306,9 @@
       <title>视频去水印 - Kalvin在线工具</title>
     </bookmark>
   </folder>
+  <bookmark href="https://wanmeiyunjiao.com/" id="4494">
+    <title>完美韵脚 - 让押韵变得简单</title>
+  </bookmark>
 </folder>
 <folder id="3048">
   <title>Share</title>
