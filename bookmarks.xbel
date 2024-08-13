@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4494: for Floccus bookmark sync browser extension -->
+<!--- highestId :4495: for Floccus bookmark sync browser extension -->
 
 <folder id="3046">
   <title>AI</title>
@@ -2304,6 +2304,9 @@
     </bookmark>
     <bookmark href="https://tools.kalvinbg.cn/media/video_rmwatermark" id="3338">
       <title>视频去水印 - Kalvin在线工具</title>
+    </bookmark>
+    <bookmark href="https://online-video-cutter.com/cn/projects/72226d36-6c43-4f0b-b06b-2a7c4c1d1d7d" id="4495">
+      <title>在线视频编辑器 - 简单免费的视频编辑工具</title>
     </bookmark>
   </folder>
   <bookmark href="https://wanmeiyunjiao.com/" id="4494">
