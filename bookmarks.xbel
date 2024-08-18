@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4495: for Floccus bookmark sync browser extension -->
+<!--- highestId :4515: for Floccus bookmark sync browser extension -->
 
 <folder id="3046">
   <title>AI</title>
@@ -783,6 +783,9 @@
       <bookmark href="https://civitai.com/images/18099333" id="4253">
         <title>Image posted by Fujishimi</title>
       </bookmark>
+      <bookmark href="https://civitai.com/images/24294279" id="4496">
+        <title>Image posted by Tommu</title>
+      </bookmark>
     </folder>
     <folder id="3166">
       <title>Ref_Img_Wait_to_Workflow_no_model_and_prompt</title>
@@ -1271,6 +1274,12 @@
       </bookmark>
       <bookmark href="https://civitai.com/models/148599" id="3973">
         <title>旗袍美人 - v1.0 | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/456882/styles-or-pony-and-xl?modelVersionId=706675" id="4497">
+        <title>STYLES | PONY &amp; XL - GEN v0.1 (Pony V6) | Stable Diffusion LoRA | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/396772/modern-anime-screencap-style-pony-xl?modelVersionId=442507" id="4498">
+        <title>Modern Anime Screencap (Style) - Pony XL - v1.0 | Stable Diffusion LoRA | Civitai</title>
       </bookmark>
     </folder>
     <folder id="3325">
@@ -2164,6 +2173,9 @@
     <bookmark href="https://comfy.icu/node" id="3859">
       <title>comfy.icu/node</title>
     </bookmark>
+    <bookmark href="https://www.runcomfy.com/comfyui/7b1b180b-51e4-47a0-8f4d-0d1693ea9517" id="4499">
+      <title>Dashboard</title>
+    </bookmark>
   </folder>
   <bookmark href="https://www.hedra.com/app/characters" id="3065">
     <title>Hedra</title>
@@ -2191,6 +2203,9 @@
   </folder>
   <bookmark href="https://chat.moyanaigc.com/#/sceneModel/work" id="3251">
     <title>工作台 - 陌言AI</title>
+  </bookmark>
+  <bookmark href="https://new.express.adobe.com/" id="4500">
+    <title>Adobe Express</title>
   </bookmark>
 </folder>
 <folder id="3047">
@@ -2311,6 +2326,21 @@
   </folder>
   <bookmark href="https://wanmeiyunjiao.com/" id="4494">
     <title>完美韵脚 - 让押韵变得简单</title>
+  </bookmark>
+  <bookmark href="https://github.akams.cn/" id="4501">
+    <title>GitHub 文件加速 - Sonder</title>
+  </bookmark>
+  <bookmark href="https://new.express.adobe.com/?referrer=https%3A%2F%2Fwww.bing.com%2F&amp;url=%2Fexpress%2F&amp;placement=marquee&amp;locale=en-US&amp;contentRegion=us&amp;_branch_match_id=1352311852961357916&amp;_branch_referrer=H4sIAAAAAAAAAxWLQQrCMBRET9PsTEB3QhCzqOCqKMV1Gse2NE2%2BPynx%2BKYwMLx5zJQzpbNS9h0HJLK8UExZWiLp57Co251N1%2FYvY4YL4wNmsJ72U3O6Nse2ppQihzmM0sW1otjY69r4ESOlfSFvHVaErFfL3w0QPjrroREO%2FVO4GHKVD4xzDHpLf8XIz2iUAAAA#" id="4502">
+    <title>Adobe Express</title>
+  </bookmark>
+  <bookmark href="https://editor.56show.com/editor/9cc5307091654a919fa99572f24ddac9" id="4503">
+    <title>在线视频编辑_云非编解决方案_web端云剪辑</title>
+  </bookmark>
+  <bookmark href="https://www.capcut.cn/home-page" id="4504">
+    <title>主页 - 视频剪辑软件 - 剪映</title>
+  </bookmark>
+  <bookmark href="https://www.viggle.ai/create" id="4505">
+    <title>VIGGLE</title>
   </bookmark>
 </folder>
 <folder id="3048">
@@ -2644,6 +2674,9 @@
     <bookmark href="https://magdeleine.co/" id="3688">
       <title>精心挑选的免费照片可激发您的灵感-Magdeleine</title>
     </bookmark>
+    <bookmark href="https://stockcake.com/" id="4506">
+      <title>StockCake: Captivating Free Images for Every Occasion</title>
+    </bookmark>
   </folder>
   <folder id="3103">
     <title>Free VIDEO</title>
@@ -2766,6 +2799,24 @@
     </bookmark>
     <bookmark href="https://www.ear0.com/" id="4493">
       <title>耳聆网 - 听见世界之美 - (声音分享云|音效素材库)</title>
+    </bookmark>
+    <bookmark href="https://www.zapsplat.com/" id="4507">
+      <title>Free Sound Effects Downloads | SFX (Sound FX) | Zapsplat</title>
+    </bookmark>
+    <bookmark href="https://freesound.org/" id="4508">
+      <title>Freesound</title>
+    </bookmark>
+    <bookmark href="https://www.voices.com/" id="4509">
+      <title>#1 Voice Over Marketplace to Hire Voice Actors | Voices</title>
+    </bookmark>
+    <bookmark href="https://stock.freem.ne.jp/" id="4510">
+      <title>ふりーむ！素材ライブラリ - 効果音・ＢＧＭ素材が１万個！ ロイヤリティフリー</title>
+    </bookmark>
+    <bookmark href="https://soalunashosya.jimdofree.com/" id="4511">
+      <title>フリーボイス素材屋 すぱらんど - ボイス素材屋～すぱらんど</title>
+    </bookmark>
+    <bookmark href="https://www.voistock.com/en/voicelist/" id="4512">
+      <title>Public Voice List | VoiStock β</title>
     </bookmark>
   </folder>
 </folder>
@@ -4353,4 +4404,13 @@
     <title>发现更多精彩视频 - 抖音搜索</title>
   </bookmark>
 </folder>
+<bookmark href="https://artvee.com/?from=thosefree.com" id="4513">
+  <title>Artvee</title>
+</bookmark>
+<bookmark href="https://idify.netlify.app/?from=thosefree.com" id="4514">
+  <title>IDIFY - Free and Open Source ID Photo Maker.</title>
+</bookmark>
+<bookmark href="https://www.ushare.fun/editor" id="4515">
+  <title>Editor - uShare - uShare</title>
+</bookmark>
 </xbel>
