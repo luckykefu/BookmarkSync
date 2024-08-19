@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :5990: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :6008: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="5254">AI</H3>
 <DL><p>
@@ -24,6 +24,7 @@
     <DT><A HREF="https://tongyi.aliyun.com/qianwen/" TAGS="" ID="5274">通义</A>
     <DT><A HREF="https://www.opkfc.com/list" TAGS="" ID="5275">数字玩家</A>
     <DT><A HREF="https://chat.lify.vip/chat?agent=&topic=77IA9CWb" TAGS="" ID="5276">随便聊聊 · AI 智慧岛</A>
+    <DT><A HREF="https://ilingban.com/chat/" TAGS="" ID="5991">灵办AI助手</A>
   </DL><p>
   <DT><H3 ID="5257">Model</H3>
   <DL><p>
@@ -279,6 +280,8 @@
       <DT><A HREF="https://civitai.com/images/18255517" TAGS="" ID="5986">Image posted by Fujishimi</A>
       <DT><A HREF="https://civitai.com/images/18099333" TAGS="" ID="5987">Image posted by Fujishimi</A>
       <DT><A HREF="https://civitai.com/images/24294279" TAGS="" ID="5988">Image posted by Tommu</A>
+      <DT><A HREF="https://civitai.com/images/24599129" TAGS="" ID="5992">Image posted by invioai</A>
+      <DT><A HREF="https://civitai.com/images/24568822" TAGS="" ID="5993">Image posted by Ajuro</A>
     </DL><p>
     <DT><H3 ID="5287">Ref_Img_Wait_to_Workflow_no_model_and_prompt</H3>
     <DL><p>
@@ -362,6 +365,7 @@
       <DT><A HREF="https://civitai.com/models/537844/pixel-ahuskay?modelVersionId=597930" TAGS="" ID="5544">Pixel Ahuskay - v2.0 | Stable Diffusion Checkpoint | Civitai</A>
       <DT><A HREF="https://civitai.com/models/432244/forrealxl?modelVersionId=518881" TAGS="" ID="5545">ForRealXL - v0.5 | Stable Diffusion Checkpoint | Civitai</A>
       <DT><A HREF="https://civitai.com/models/522596/snowpony?modelVersionId=580625" TAGS="" ID="5546">SnowPony - v1.0 | Stable Diffusion Checkpoint | Civitai</A>
+      <DT><A HREF="https://civitai.com/models/618692/flux?modelVersionId=691639" TAGS="" ID="5994">FLUX - Dev | Stable Diffusion Checkpoint | Civitai</A>
     </DL><p>
     <DT><H3 ID="5290">oebd</H3>
     <DL><p>
@@ -454,6 +458,7 @@
       <DT><A HREF="https://civitai.com/models/148599" TAGS="" ID="5761">旗袍美人 - v1.0 | Stable Diffusion LoRA | Civitai</A>
       <DT><A HREF="https://civitai.com/models/456882/styles-or-pony-and-xl?modelVersionId=706675" TAGS="" ID="5762">STYLES | PONY & XL - GEN v0.1 (Pony V6) | Stable Diffusion LoRA | Civitai</A>
       <DT><A HREF="https://civitai.com/models/396772/modern-anime-screencap-style-pony-xl?modelVersionId=442507" TAGS="" ID="5763">Modern Anime Screencap (Style) - Pony XL - v1.0 | Stable Diffusion LoRA | Civitai</A>
+      <DT><A HREF="https://civitai.com/models/638904/anthroid-flux?modelVersionId=714482" TAGS="" ID="5995">Anthroid -Flux - v1.0 | Stable Diffusion LoRA | Civitai</A>
     </DL><p>
     <DT><H3 ID="5348">yockpt</H3>
     <DL><p>
@@ -768,7 +773,6 @@
     <DT><A HREF="https://comfy.icu/node" TAGS="" ID="5679">comfy.icu/node</A>
     <DT><A HREF="https://www.runcomfy.com/comfyui/7b1b180b-51e4-47a0-8f4d-0d1693ea9517" TAGS="" ID="5680">Dashboard</A>
   </DL><p>
-  <DT><A HREF="https://www.hedra.com/app/characters" TAGS="" ID="5262">Hedra</A>
   <DT><H3 ID="5263">Video</H3>
   <DL><p>
     <DT><A HREF="https://klingai.kuaishou.com/" TAGS="" ID="5292">可灵 AI - 新一代 AI 创意生产力平台</A>
@@ -805,6 +809,7 @@
   <DL><p>
     <DT><A HREF="https://www.newrank.cn/" TAGS="" ID="4610">新榜——新媒体，找新榜</A>
     <DT><A HREF="http://www.jsrank.cn/" TAGS="" ID="4611">即时热榜-今日热点,热搜,排行榜聚合网站</A>
+    <DT><A HREF="https://hot.ittools.cc/#/" TAGS="" ID="5996">今日热榜 - 汇聚全网热点，热门尽览无余</A>
   </DL><p>
   <DT><A HREF="https://afdian.net/feed" TAGS="" ID="4568">动态丨爱发电</A>
   <DT><A HREF="https://wantquotes.net/" TAGS="" ID="4569">WantQuotes 据意查句</A>
@@ -840,7 +845,16 @@
   <DT><A HREF="https://new.express.adobe.com/?referrer=https%3A%2F%2Fwww.bing.com%2F&url=%2Fexpress%2F&placement=marquee&locale=en-US&contentRegion=us&_branch_match_id=1352311852961357916&_branch_referrer=H4sIAAAAAAAAAxWLQQrCMBRET9PsTEB3QhCzqOCqKMV1Gse2NE2%2BPynx%2BKYwMLx5zJQzpbNS9h0HJLK8UExZWiLp57Co251N1%2FYvY4YL4wNmsJ72U3O6Nse2ppQihzmM0sW1otjY69r4ESOlfSFvHVaErFfL3w0QPjrroREO%2FVO4GHKVD4xzDHpLf8XIz2iUAAAA#" TAGS="" ID="4663">Adobe Express</A>
   <DT><A HREF="https://editor.56show.com/editor/9cc5307091654a919fa99572f24ddac9" TAGS="" ID="4664">在线视频编辑_云非编解决方案_web端云剪辑</A>
   <DT><A HREF="https://www.capcut.cn/home-page" TAGS="" ID="4701">主页 - 视频剪辑软件 - 剪映</A>
-  <DT><A HREF="https://www.viggle.ai/create" TAGS="" ID="4702">VIGGLE</A>
+  <DT><A HREF="https://www.photopea.com/" TAGS="" ID="5997">Photopea | Online Photo Editor</A>
+  <DT><H3 ID="6005">img2vdo</H3>
+  <DL><p>
+    <DT><A HREF="https://www.viggle.ai/create" TAGS="" ID="4702">VIGGLE</A>
+  </DL><p>
+  <DT><H3 ID="6007">ps</H3>
+  <DL><p>
+    <DT><A HREF="https://ps.xieniao.com/" TAGS="" ID="6008">PhotoXie 免费在线图片PS编辑工具网页版</A>
+  </DL><p>
+  <DT><A HREF="https://www.capcut.com/editor?enter_from=page_header&current_page=landing_page&from_page=landing_page&scenario=custom" TAGS="" ID="5998">CapCut | Video Editor | All-In-One Video Editing Software | CapCut</A>
 </DL><p>
 <DT><H3 ID="4748">Share</H3>
 <DL><p>
@@ -889,7 +903,6 @@
   </DL><p>
   <DT><A HREF="https://hao.su/" TAGS="" ID="4750">不死鸟 - 分享为王</A>
   <DT><A HREF="https://www.ghpym.com/" TAGS="" ID="4751">果核剥壳 - 还原软件的本质</A>
-  <DT><A HREF="https://www.ccava.net/" TAGS="" ID="4752">漫步白月光 - 专注于精品软件分享与下载</A>
   <DT><A HREF="https://quickref.cn/" TAGS="" ID="4753">Quick Reference & Quick Reference</A>
   <DT><A HREF="https://www.ypojie.com/" TAGS="" ID="4754">易破解 - 给你所需要的内容</A>
   <DT><A HREF="https://rutracker.org/forum/index.php" TAGS="" ID="4755">RuTracker.org --- RuTracker.org</A>
@@ -1034,6 +1047,7 @@
     <DT><A HREF="https://soalunashosya.jimdofree.com/" TAGS="" ID="4657">フリーボイス素材屋 すぱらんど - ボイス素材屋～すぱらんど</A>
     <DT><A HREF="https://www.voistock.com/en/voicelist/" TAGS="" ID="4658">Public Voice List | VoiStock β</A>
   </DL><p>
+  <DT><A HREF="https://icon.ittools.cc/" TAGS="" ID="5999">图标 --- Icônes</A>
 </DL><p>
 <DT><H3 ID="4522">FreeJob</H3>
 <DL><p>
@@ -1485,12 +1499,16 @@
       <DT><A HREF="http://www.360doc.com/content/15/1104/15/14578864_510693490.shtml" TAGS="" ID="5011">不用扩展--让Firefox一键翻译外文网页</A>
       <DT><A HREF="http://www.naale.biz/archiver/tid-6676.html" TAGS="" ID="5012">让火狐实现Chrome的自动翻译功能的几枚插件 - Powered by Discuz! Archiver</A>
     </DL><p>
+    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" TAGS="" ID="6000">Tampermonkey – 下载 🦊 Firefox 扩展（zh-CN）</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/photoshow/" TAGS="" ID="4991">浮图秀 – 下载 🦊 Firefox 扩展（zh-CN）</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/ia-batch-image-downloader/?src=search" TAGS="" ID="4992">图片助手(ImageAssistant) 图片批量下载器 – 下载 🦊 Firefox 扩展（zh-CN）</A>
+    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/mouse-click-effects/?src=search" TAGS="" ID="6001">鼠标点击特效 (๑•́ ∀ •̀๑) – 下载 🦊 Firefox 扩展（zh-CN）</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/switchyomega/?src=search" TAGS="" ID="4994">Proxy SwitchyOmega – 下载 🦊 Firefox 扩展（zh-CN）</A>
+    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" TAGS="" ID="6002">Gesturefy – 下载 🦊 Firefox 扩展（zh-CN）</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/deepl-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" TAGS="" ID="4996">DeepL翻译： 读写翻译器 – 下载 🦊 Firefox 扩展（zh-CN）</A>
+    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/hcfy/" TAGS="" ID="6003">划词翻译 – 下载 🦊 Firefox 扩展（zh-CN）</A>
+    <DT><A HREF="https://addons.mozilla.org/en-US/firefox/addon/xbs/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" TAGS="" ID="6004">xBrowserSync – Get this Extension for 🦊 Firefox (en-US)</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-standard/" TAGS="" ID="5040">FoxyProxy Standard – 下载 🦊 Firefox 扩展（zh-CN）</A>
-    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" TAGS="" ID="5990">沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费 – 下载 🦊 Firefox 扩展（zh-CN）</A>
   </DL><p>
   <DT><H3 ID="4954">EdgeEX</H3>
   <DL><p>
@@ -1635,5 +1653,6 @@
 <DT><A HREF="https://artvee.com/?from=thosefree.com" TAGS="" ID="4827">Artvee</A>
 <DT><A HREF="https://idify.netlify.app/?from=thosefree.com" TAGS="" ID="4837">IDIFY - Free and Open Source ID Photo Maker.</A>
 <DT><A HREF="https://www.ushare.fun/editor" TAGS="" ID="4849">Editor - uShare - uShare</A>
+<DT><A HREF="https://www.maokan.cc/#header" TAGS="" ID="6006">猫看www.maokan.cc - 在线白噪音网站，体验宁静与专注</A>
 </DL><p>
 </html>
