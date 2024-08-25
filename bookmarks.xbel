@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :6027: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :6029: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="5254">AI</H3>
 <DL><p>
@@ -22,6 +22,7 @@
   <DL><p>
     <DT><A HREF="https://kimi.moonshot.cn/" TAGS="" ID="5273">Kimi.ai - 帮你看更大的世界</A>
     <DT><A HREF="https://tongyi.aliyun.com/qianwen/" TAGS="" ID="5274">通义</A>
+    <DT><A HREF="https://huggingface.co/spaces/Quardo/gpt-4o-mini" TAGS="" ID="6028">GPT-4O-mini - a Hugging Face Space by Quardo</A>
   </DL><p>
   <DT><H3 ID="5257">Model</H3>
   <DL><p>
@@ -851,6 +852,7 @@
     <DT><A HREF="https://github.akams.cn/" TAGS="" ID="4662">GitHub 文件加速 - Sonder</A>
     <DT><A HREF="https://wanmeiyunjiao.com/" TAGS="" ID="4661">完美韵脚 - 让押韵变得简单</A>
     <DT><A HREF="https://ps.xieniao.com/" TAGS="" ID="6021">PhotoXie 免费在线图片PS编辑工具网页版</A>
+    <DT><A HREF="https://bpmdetector.kniffen.dev/file/" TAGS="" ID="6029">BPM Detector</A>
   </DL><p>
 </DL><p>
 <DT><H3 ID="4748">Share</H3>
@@ -1137,45 +1139,10 @@
       <DT><A HREF="http://www.360doc.com/content/15/1104/15/14578864_510693490.shtml" TAGS="" ID="5011">不用扩展--让Firefox一键翻译外文网页</A>
       <DT><A HREF="http://www.naale.biz/archiver/tid-6676.html" TAGS="" ID="5012">让火狐实现Chrome的自动翻译功能的几枚插件 - Powered by Discuz! Archiver</A>
     </DL><p>
-    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" TAGS="" ID="6000">Tampermonkey – 下载 🦊 Firefox 扩展（zh-CN）</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/photoshow/" TAGS="" ID="4991">浮图秀 – 下载 🦊 Firefox 扩展（zh-CN）</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/ia-batch-image-downloader/?src=search" TAGS="" ID="4992">图片助手(ImageAssistant) 图片批量下载器 – 下载 🦊 Firefox 扩展（zh-CN）</A>
-    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/mouse-click-effects/?src=search" TAGS="" ID="6001">鼠标点击特效 (๑•́ ∀ •̀๑) – 下载 🦊 Firefox 扩展（zh-CN）</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/switchyomega/?src=search" TAGS="" ID="4994">Proxy SwitchyOmega – 下载 🦊 Firefox 扩展（zh-CN）</A>
-    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/gesturefy/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" TAGS="" ID="6002">Gesturefy – 下载 🦊 Firefox 扩展（zh-CN）</A>
-    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/deepl-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" TAGS="" ID="4996">DeepL翻译： 读写翻译器 – 下载 🦊 Firefox 扩展（zh-CN）</A>
-    <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/hcfy/" TAGS="" ID="6003">划词翻译 – 下载 🦊 Firefox 扩展（zh-CN）</A>
-    <DT><A HREF="https://addons.mozilla.org/en-US/firefox/addon/xbs/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" TAGS="" ID="6004">xBrowserSync – Get this Extension for 🦊 Firefox (en-US)</A>
     <DT><A HREF="https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-standard/" TAGS="" ID="5040">FoxyProxy Standard – 下载 🦊 Firefox 扩展（zh-CN）</A>
-  </DL><p>
-  <DT><H3 ID="4954">EdgeEX</H3>
-  <DL><p>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh" TAGS="" ID="4999">Adblock Plus - 免费的广告拦截器 - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/authenticator-2fa-client/ocglkepbibnalbgmbachknglpdipeoio" TAGS="" ID="5000">Authenticator: 2FA Client - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88-gpt4%E5%9B%BD%E5%86%85%E5%85%8D%E8%B4%B9%E7%9B%B4%E8%BF%9E/lkmmeflbbameaolnpdciblkknkkikael" TAGS="" ID="5001">ChatGPT中文版 GPT-4(国内免费直连) - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc" TAGS="" ID="5002">Dark Reader - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/grammarly-ai-writing-and/cnlefmmeadmemmdciolhbnfeacpdfbkd" TAGS="" ID="5003">Grammarly: AI Writing and Grammar Checker App - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/ie-tab/npjkkakdacjaihjaoeliacmecofghagh" TAGS="" ID="5004">IE Tab - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/listen-1/bcneiehcbgahghfmgigmblcgkhihehad" TAGS="" ID="5005">Listen 1 - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/modheader-modify-http-h/opgbiafapkbbnbnjcdomjaghbckfkglc" TAGS="" ID="5006">ModHeader - Modify HTTP headers - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/proxy-switchyomega/fdbloeknjpnloaggplaobopplkdhnikc" TAGS="" ID="5007">Proxy SwitchyOmega - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81%EF%BC%88%E7%94%9F%E6%88%90%E5%8F%8A%E8%AF%86%E5%88%AB%EF%BC%89/majobenfcengbipnapomhopjknaiffph" TAGS="" ID="5008">二维码（生成及识别） - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/%E5%9B%BE%E7%89%87%E5%8A%A9%E6%89%8Bimageassistant-%E6%89%B9%E9%87%8F%E5%9B%BE%E7%89%87/odphnbhiddhdpoccbialllejaajemdio" TAGS="" ID="5041">图片助手(ImageAssistant) 批量图片下载器 - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/%E6%B5%AE%E5%9B%BE%E7%A7%80/afdelcfalkgcfelngdclbaijgeaklbjk" TAGS="" ID="5042">浮图秀 - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/%E7%AE%80%E6%82%A6-simpread/clgdhlhfiocphghdkdbgdlmfaafccfmc" TAGS="" ID="5043">简悦 - SimpRead - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd" TAGS="" ID="5044">篡改猴 - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6supercopy/flpbdpehhdkifokenkkljcnfkbnekofg" TAGS="" ID="5045">超级复制SuperCopy - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/lastpass-free-password-m/bbcinlkgjjkejfdpemiealijmmooekmp" TAGS="" ID="5046">LastPass: Free Password Manager - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/%E6%95%B4%E5%BC%A0%E7%BD%91%E9%A1%B5%E6%88%AA%E5%9B%BE/kedhkjgdcdcmpgklneflbpnfnjgpmmnj?hl=zh-CN" TAGS="" ID="5047">整张网页截图 - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/infinity-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5-pro/hajlmbnnniemimmaehcefkamdadpjlfa" TAGS="" ID="5048">Infinity 新标签页 (Pro) - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/billfish-%E5%85%8D%E8%B4%B9%E7%B4%A0%E6%9D%90%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7v40/kjjmbhmmbfgbaannpbpoaabponeogaop?hl=zh-CN" TAGS="" ID="5049">Billfish - 免费素材管理工具V4.0 - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN" TAGS="" ID="5050">沉浸式翻译: 双语对照网页翻译 & PDF文档翻译 - Microsoft Edge Addons</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/detail/onenote-web-clipper/oogbnpmeihfgnccdnmmlgicknopghhma" TAGS="" ID="5085">Microsoft Edge 加载项</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/search/rsshub" TAGS="" ID="5086">Microsoft Edge 加载项 - rsshub</A>
-    <DT><A HREF="https://microsoftedge.microsoft.com/addons/search/bookmarkhub" TAGS="" ID="5087">Microsoft Edge 加载项 - bookmarkhub</A>
-    <DT><A HREF="https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B/hchobocdmclopcbnibdnoafilagadion?pli=1" TAGS="" ID="5088">微信公众号同步助手</A>
-    <DT><A HREF="https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca" TAGS="" ID="5089">Automa</A>
-    <DT><A HREF="https://chromewebstore.google.com/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa" TAGS="" ID="5090">Markdown Here</A>
   </DL><p>
 </DL><p>
 <DT><A HREF="https://www.cbaigui.com/" TAGS="" ID="4530">知妖（中国妖怪百集）</A>
