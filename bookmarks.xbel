@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :1079: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :1080: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="304">AI</H3>
 <DL><p>
@@ -31,7 +31,6 @@
     <DT><A HREF="https://hailuoai.com/?type=chat&#38;chatID=302412115632476169" TAGS="" ID="1055">海螺AI—MiniMax 旗下生产力产品，你的AI伙伴，10倍速提升工作学习效率</A>
     <DT><A HREF="https://chat.deepseek.com/a/chat/s/53b325f6-6ae0-4644-bd31-2b02616fc6c4" TAGS="" ID="1057">DeepSeek - 探索未至之境</A>
     <DT><A HREF="https://www.tongyi.com/" TAGS="" ID="1061">通义 - 你的超级个人助理</A>
-    <DT><A HREF="https://grok.com/" TAGS="" ID="1062">Grok</A>
     <DT><A HREF="https://yuanbao.tencent.com/chat/naQivTmsDa" TAGS="" ID="1058">腾讯元宝 - 轻松工作 多点生活</A>
   </DL><p>
   <DT><H3 ID="307">Model</H3>
@@ -1184,5 +1183,6 @@
   <DT><A HREF="https://xueqiu.com/hq" TAGS="" ID="1078">行情中心 - 雪球</A>
   <DT><A HREF="https://grok.com/" TAGS="" ID="1079">Grok</A>
 </DL><p>
+<DT><A HREF="chrome://settings/content/javascript" TAGS="" ID="1080">解除复制限制</A>
 </DL><p>
 </html>
